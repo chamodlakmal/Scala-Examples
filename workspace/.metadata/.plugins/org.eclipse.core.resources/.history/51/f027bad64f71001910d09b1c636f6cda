@@ -1,0 +1,9 @@
+package First
+
+object Currying {
+  def main(args:Array[String])
+    {
+      
+               
+    }
+}

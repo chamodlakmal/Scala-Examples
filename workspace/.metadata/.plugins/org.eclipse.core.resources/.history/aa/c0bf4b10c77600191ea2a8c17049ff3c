@@ -1,0 +1,11 @@
+package First
+//Part - 35 Array
+object ArrayExample {
+   
+  def main(args:Array[String])
+  {
+   val myArray3=Array(1,2,3) 
+      
+  }
+  
+}

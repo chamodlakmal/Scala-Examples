@@ -1,0 +1,9 @@
+package First
+// Part - 40 List ---> Part - 1
+object Demo1 {
+  def main(args:Array[String])
+  {
+     var colors:List[String]=List("Red","Blue","White")
+     println(colors(0))
+  }
+}

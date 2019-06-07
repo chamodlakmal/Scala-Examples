@@ -1,0 +1,12 @@
+package First
+//Part - 28 Currying Function
+
+object Currying {
+  def main(args:Array[String])
+    {
+       println(sub(5)(3))              
+    }
+  def sub(x:Int)=(y:Int)=>x-y;
+  
+  def sub1(x:Int)(y:Int)=>x-y;
+}

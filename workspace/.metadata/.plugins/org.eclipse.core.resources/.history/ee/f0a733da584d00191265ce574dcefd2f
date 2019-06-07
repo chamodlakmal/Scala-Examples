@@ -1,0 +1,11 @@
+package First
+
+object Show {
+    def main(args:Array[String])
+    {
+         var number:Int=10
+         println(number)
+         
+    }
+    
+}

@@ -1,0 +1,10 @@
+package First
+//Part - 34 Assignment Operators
+object Assignment {
+  // = , += , -= , *= , /=
+  def main(args:Array[String])
+  {
+    
+  }
+    
+}

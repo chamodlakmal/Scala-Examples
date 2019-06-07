@@ -1,0 +1,17 @@
+package First
+
+object Higher {
+   def main(args: Array[String]) {
+     hexamle(5, 2, add)
+      
+  }
+   def hexamle(x:Int,y:Int,f:(Int,Int)=>Int):Int=
+   {
+     f(x,y)
+   }
+   def add(x:Int,y:Int):Int=
+   {
+     x+y
+   }
+   
+}

@@ -1,0 +1,12 @@
+package First
+
+object Partially {
+  def main(args: Array[String]) {
+      println(mul(2,4,1) )  
+  }
+  
+  def mul(x:Int,y:Int,z:Int):Int=
+  {
+    x*y*z;
+  }
+}

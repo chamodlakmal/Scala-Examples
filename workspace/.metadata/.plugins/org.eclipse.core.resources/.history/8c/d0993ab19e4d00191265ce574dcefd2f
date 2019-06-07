@@ -1,0 +1,11 @@
+package First
+
+object Show {
+    def main(args:Array[String])
+    {
+        var x=scala.io.StdIn.readLine();
+        println(x)
+                  
+    }
+    
+}

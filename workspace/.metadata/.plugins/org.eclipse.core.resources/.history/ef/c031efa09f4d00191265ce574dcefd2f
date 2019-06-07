@@ -1,0 +1,11 @@
+package First
+
+object Show {
+    def main(args:Array[String])
+    {
+        print("Enter your Number ")
+        var number=scala.io.StdIn.readInt()
+        println(number)
+    }
+    
+}

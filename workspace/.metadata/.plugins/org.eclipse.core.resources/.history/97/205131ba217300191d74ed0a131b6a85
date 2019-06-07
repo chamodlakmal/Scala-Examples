@@ -1,0 +1,10 @@
+package First
+//Part - 35 Array
+object ArrayExample {
+   var x= Array(1,8,9)
+  def main(args:Array[String])
+  {
+       
+  }
+  
+}

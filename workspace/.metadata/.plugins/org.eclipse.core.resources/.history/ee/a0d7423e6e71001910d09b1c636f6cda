@@ -1,0 +1,12 @@
+package First
+//Part - 32 Logical Operators
+object Logical {
+  
+  // && ,  || , !
+  
+  def main(args:Array[String])
+  {
+    
+  }
+  
+}

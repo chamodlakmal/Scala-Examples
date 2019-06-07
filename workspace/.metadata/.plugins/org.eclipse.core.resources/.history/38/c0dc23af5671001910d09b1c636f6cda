@@ -1,0 +1,14 @@
+package First
+
+object Closure {
+  def main(args:Array[String])
+    {
+       println(cExample(50))
+    }
+  var value=10;
+  def cExample(x:Int):Int=
+  {
+    var sum=x+value;
+    return value;
+  }
+}

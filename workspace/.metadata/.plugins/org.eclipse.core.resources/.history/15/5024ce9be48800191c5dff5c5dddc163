@@ -1,0 +1,14 @@
+package First
+// Part - 41 List ---> Part - 2
+object Demo1 {
+  def main(args:Array[String])
+  {
+     var colors:List[String]=List("Red","Blue","White")    
+     var numbers:List[Int]=List(10,20,30)
+     var sum=0
+     println(numbers.sum)
+     println(numbers.head)
+     println(numbers.last)
+     println(colors.last)
+  }
+}

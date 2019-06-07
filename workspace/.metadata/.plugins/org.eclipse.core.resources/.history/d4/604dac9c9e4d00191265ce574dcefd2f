@@ -1,0 +1,13 @@
+package First
+
+object Show {
+    def main(args:Array[String])
+    {
+        var x=10
+        x=20
+        val y=20
+        println(y)
+                  
+    }
+    
+}

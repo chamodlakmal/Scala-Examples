@@ -1,0 +1,9 @@
+package First
+//Part - 29 Closures
+object Closure {
+  def main(args:Array[String])
+    {
+       
+    }
+  
+}

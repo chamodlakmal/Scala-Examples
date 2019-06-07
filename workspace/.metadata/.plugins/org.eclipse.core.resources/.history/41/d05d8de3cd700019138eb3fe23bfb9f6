@@ -1,0 +1,13 @@
+package First
+//Part-25 Partially Applied Functions
+object Partially {
+  def main(args: Array[String]) {
+      var x=mul(2,4,_:Int)  
+      println(x(2))
+  }
+  
+  def mul(x:Int,y:Int,z:Int):Int=
+  {
+    x*y*z;
+  }
+}

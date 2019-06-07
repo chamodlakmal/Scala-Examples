@@ -1,0 +1,26 @@
+//Part - 38 Multi-Dimensional Arrays Part-2
+object Show {
+   def main(args:Array[String])
+  {   
+     var x=Array.ofDim[Int](3,3)
+     
+     for(i <- 0 to 2)
+     {
+       for(j <- 0 to 2)
+       {
+         x(i)(j)=i;
+       }
+     }
+     for(i <- 0 to 2)
+     {
+       for(j <- 0 to 2)
+       {
+         print(" "+x(i)(j))
+       }
+       println()
+     }
+     
+     
+  }
+      
+}

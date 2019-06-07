@@ -1,0 +1,21 @@
+package First
+
+//Part-23 Higher-Order Function
+
+object Higher {
+   def main(args: Array[String]) {
+         hExample(4,2,add)
+  }
+   def hExample(x:Int,y:Int,f:(Int,Int)=>Int)
+   {
+     val value=f(x,y) //calling the function
+     println(value)
+   }
+   
+   def add(x:Int,y:Int):Int=
+   {
+     return x-y
+   }
+  
+   
+}

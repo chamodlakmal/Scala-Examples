@@ -1,0 +1,8 @@
+package First
+//Part 26 Recursion Function
+object Recursion {
+  def main(args:Array[String])
+    {
+                      
+    }
+}

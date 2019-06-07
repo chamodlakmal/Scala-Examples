@@ -1,0 +1,8 @@
+
+object One {
+  def main(args:Array[String])
+  {
+    var x="chamod";
+    println(x.charAt(0));
+  }
+}

@@ -1,0 +1,13 @@
+package First
+//Part - 35 Array
+object Array {
+  def main(args:Array[String])
+  {
+    var z:Array[String]=new Array[String](3)
+    z(0)="Kamal";
+    z(1)="Nimal"
+    z(2)="Sunil"
+    println(z(0))
+  }
+  
+}

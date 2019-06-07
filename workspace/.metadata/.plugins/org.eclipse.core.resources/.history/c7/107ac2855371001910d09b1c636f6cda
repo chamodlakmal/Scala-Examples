@@ -1,0 +1,10 @@
+package First
+//Part - 28 Currying Function
+
+object Currying {
+  def main(args:Array[String])
+    {
+                     
+    }
+  
+}

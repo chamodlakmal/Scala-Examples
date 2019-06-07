@@ -1,0 +1,17 @@
+package First
+
+object Show {
+    def main(args:Array[String])
+    {
+        var number=0  
+        do
+        {
+           print("Enter your Number : ")
+           number=scala.io.StdIn.readInt()
+        }while(number!=10)
+       
+        
+        
+    }
+    
+}

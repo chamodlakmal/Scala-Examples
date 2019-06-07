@@ -1,0 +1,10 @@
+package First
+
+object Demo1 {
+  def main(args:Array[String])
+  {
+    val fruit: List[String] = List("apples", "oranges", "pears")
+    fruit.foreach(println)
+
+  }
+}

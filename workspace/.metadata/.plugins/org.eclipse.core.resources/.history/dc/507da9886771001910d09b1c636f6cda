@@ -1,0 +1,8 @@
+package First
+//Part - 30 Arithmetic Operators
+object Arithmetic {
+  def main(args:Array[String])
+    {
+                      
+    }
+}

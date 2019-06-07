@@ -1,0 +1,11 @@
+package First
+// Part - 31 Relational Operators
+object Relational {
+  
+  // == , != , > ,  < , >= ,  <=
+  def main(args:Array[String])
+  {
+    
+  }
+  
+}

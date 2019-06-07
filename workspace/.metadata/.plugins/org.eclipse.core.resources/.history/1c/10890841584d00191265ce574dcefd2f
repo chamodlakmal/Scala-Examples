@@ -1,0 +1,11 @@
+package First
+
+object Show {
+    def main(args:Array[String])
+    {
+         var number:Double=10.23
+         println(number)
+         
+    }
+    
+}

@@ -1,0 +1,30 @@
+package First
+
+object Show {
+    def main(args:Array[String])
+    {
+        print("Enter your Marks :")
+        var mark=scala.io.StdIn.readInt()
+        if(mark>=75&&mark<=100)
+        {
+          println("Your Grade is A")
+        }
+        else if(mark>=65&&mark<75)
+        {
+          println("Your Grade is B")
+        }
+        else if(mark>=55&&mark<65)
+        {
+          println("Your Grade is C")
+        }
+        else if(mark>=35&&mark<55)
+        {
+          println("Your Grade is S")
+        }
+        else
+        {
+          println("Your Grade is W")
+        }
+    }
+    
+}

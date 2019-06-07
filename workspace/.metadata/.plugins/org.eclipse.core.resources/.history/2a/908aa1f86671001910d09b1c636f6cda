@@ -1,0 +1,11 @@
+package First
+
+object Arithmetic {
+  def main(args:Array[String])
+    {
+        
+        var x=show(5);
+        print(x);
+               
+    }
+}
