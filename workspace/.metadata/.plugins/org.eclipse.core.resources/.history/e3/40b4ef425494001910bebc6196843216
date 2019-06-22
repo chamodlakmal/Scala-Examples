@@ -1,0 +1,9 @@
+package First
+// Part - 48 --> Tuples
+object Demo5 {
+  def main(args:Array[String])
+  {
+    val myTuple=(1,12.5,"ChamiViews",true)
+    println(myTuple)
+  }
+}

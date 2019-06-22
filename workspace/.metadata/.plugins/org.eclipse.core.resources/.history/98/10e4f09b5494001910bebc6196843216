@@ -1,0 +1,11 @@
+package First
+// Part - 48 --> Tuples
+object Demo5 {
+  def main(args:Array[String])
+  {
+    val myTuple=(1,12.5,"ChamiViews",true)
+    val tuple1=new Tuple3(1,2,3)
+    println(myTuple._1)
+    println(myTuple._2)
+  }
+}

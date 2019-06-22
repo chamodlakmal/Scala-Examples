@@ -1,0 +1,9 @@
+package First
+
+object Demo5 {
+  println("Hi")
+  def main(args:Array[String])
+  {
+    
+  }
+}

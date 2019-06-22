@@ -1,0 +1,8 @@
+package First
+// Part - 48 --> Tuples
+object Demo5 {
+  def main(args:Array[String])
+  {
+    
+  }
+}
